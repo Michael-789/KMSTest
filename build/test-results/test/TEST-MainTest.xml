@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-10T06:29:01" hostname="michael-Lenovo-IdeaPad-L340-15IWL" time="0.123">
+  <properties/>
+  <testcase name="testCommands()" classname="MainTest" time="0.123"/>
+  <system-out><![CDATA[100 1
+]]></system-out>
+  <system-err><![CDATA[Oct 10, 2021 9:29:01 AM cashmachine.command.AddCommand execute
+INFO: executing add command 
+Oct 10, 2021 9:29:01 AM cashmachine.command.WithdrawCommand execute
+INFO: executing withdraw command 
+]]></system-err>
+</testsuite>
